@@ -19,3 +19,5 @@ Targeting: Focus premium advertisements on GEN-Z and Bachelor's degree holders t
 Engagement: Increase investment in social media marketing due to the positive correlation between platform time and total spend.
 
 Logistics: Maintain or reduce the 4.2-day average delivery time to ensure customer satisfaction remains high.
+
+Link: https://public.tableau.com/app/profile/balraj.fal.dessai/viz/CustomerDemographicsAnalysis_17671934136300/Dashboard1
